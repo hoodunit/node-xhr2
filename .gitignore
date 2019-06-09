@@ -11,7 +11,10 @@ node_modules
 test/vendor
 
 # Build output.
-lib/xhr2.js
+
+# Disable ignore here to allow using git repo as a dependency
+#lib/xhr2.js
+
 test/js
 tmp/*.js
 
