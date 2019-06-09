@@ -366,7 +366,7 @@ class XMLHttpRequest extends XMLHttpRequestEventTarget
       'access-control-request-method': true
       connection: true
       'content-length': true
-      cookie: true
+      cookie: false
       cookie2: true
       date: true
       dnt: true
